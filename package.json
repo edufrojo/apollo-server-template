@@ -16,5 +16,9 @@
   ],
   "author": "edufrojo",
   "license": "MIT",
-  "homepage": "https://github.com/edufrojo/apollo-server-template#readme"
+  "homepage": "https://github.com/edufrojo/apollo-server-template#readme",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "graphql": "^14.1.1"
+  }
 }
