@@ -28,7 +28,7 @@ npm install
 Habilitar el servidor y acceder a 'localhost:4000':
 
 ```sh
-node server.js
+npm start
 
 ```
 
